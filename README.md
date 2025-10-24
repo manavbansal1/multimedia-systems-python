@@ -127,7 +127,7 @@ jupyter notebook "Compression and Image Processing Fundamentals/301606480.ipynb"
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multimedia-systems-python.git
+git clone https://github.com/manavbansal1/multimedia-systems-python.git
 cd multimedia-systems-python
 ```
 
